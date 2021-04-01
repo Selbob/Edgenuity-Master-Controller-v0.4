@@ -1,3 +1,7 @@
+# Features
+This extension will automatically press next, and will skip most of the otherwise unskippable instructions.
+
+
 # Edgenuity-Master-Controller-v0.4
 Edgenuity Master Controller v0.4. Disclaimer: NOT MY CODE, JUST GOT THE OG CODE, BECAUSE THEY ARE TAKING THE CODE DOWN FROM MANY SITES.
 
@@ -17,6 +21,3 @@ Step 6: Select file, then hit save. (DO NOT SAVE TO DISK)
 Step 7: It will bring you to another page. Now make sure that the script, which should be called Edgenuity-Master-Controller-v0.4, is enabled.
 
 Step 8: Open Edgenuity and click the tampermonkey extension to make sure it is enabled.
-
-# Features
-This extension will automatically press next, and will skip most of the otherwise unskippable instructions.
