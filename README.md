@@ -1,5 +1,5 @@
 # Features
-This extension will automatically press next, and will skip most of the otherwise unskippable instructions.
+This extension will automatically press next, and will skip most of the otherwise unskippable instructions. For anyone with Lifetime Fitness classes it also auto fills and completes the vocab lessons.
 
 
 # Edgenuity-Master-Controller-v0.4
